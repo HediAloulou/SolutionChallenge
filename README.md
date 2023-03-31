@@ -4,6 +4,7 @@ Clone this repository to your local machine.
 Install Flutter and Dart by following the instructions at https://flutter.dev/docs/get-started/install
 Install Firebase by following the instructions at https://firebase.google.com/docs/flutter/setup
 Install TensorFlow by following the instructions at https://www.tensorflow.org/install
+
 Usage:
 
 Connect your IoT device to the internet and Firebase by following the instructions at https://firebase.google.com/docs/database/ios/start
